@@ -33,7 +33,7 @@ The worker handles three main endpoints:
    - Set the Authorization callback URL to `https://your-worker-subdomain.workers.dev/callback`
 
 2. **Set Environment Variables**:
-   - Add your GitHub OAuth credentials as environment variables in the Cloudflare dashboard:
+   - Add your GitHub OAuth credentials as environment variables (Worker detail > Settings > Variables and Secrets) in the Cloudflare dashboard:
      - `CLIENT_ID`: Your GitHub OAuth App Client ID
      - `CLIENT_SECRET`: Your GitHub OAuth App Client Secret
 

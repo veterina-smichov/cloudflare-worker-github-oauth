@@ -41,6 +41,9 @@ The worker handles three main endpoints:
    ```bash
    wrangler publish
    ```
+4. **Set CLOUDFLARE_API_TOKEN**
+   - Find the token in Account details in Cloudflare's dashboard Compute (Workers) > Workers & Pages.
+   - In this repository's Secrets and variables > Actions.
 
 ## Usage in Client Applications
 

@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-worker-github-oauth",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Cloudflare Worker for logging in to Decap CMS",
+  "main": "github-oauth-login.js",
+  "author": "Daniel Srb",
+  "license": "ISC",
+  "release": {
+    "branches": [
+      "main"
+    ]
+  }
+}

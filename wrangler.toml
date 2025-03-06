@@ -1,0 +1,6 @@
+name = "cloudflare-worker-github-oauth"
+main = "worker.js"
+workers_dev = true
+compatibility_date = "2025-03-03"
+[observability.logs]
+enabled = true
